@@ -1,0 +1,88 @@
+body {
+  font-family: 'Cairo', sans-serif;
+  margin: 0;
+  background-image: url(img/wp6557500.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+
+}
+.main {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+  width: 30%;
+  padding: 1px;
+  box-shadow:1px 1px 10px rgb(255, 0, 0);
+  border-radius: 60px;
+}
+.search nav ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+
+}
+.search nav a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-size: 20px;
+}
+.search nav li {
+  margin-right: 25px;
+}
+
+header {
+  background-color: 333;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav li {
+  margin-right: 25px;
+}
+
+nav a {
+  color: whitesmoke;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.banner {
+  background-color: #f7f7f7;
+  text-align: center;
+  padding:1px;
+}
+
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 15px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #f5f5f5;
+  padding: 15px;
+}

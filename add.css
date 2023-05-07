@@ -1,0 +1,16 @@
+body {
+    font-family: 'Cairo', sans-serif;
+    margin: 0;
+  }
+  .main{
+    box-shadow:1px 1px 10px rgb(135, 135, 133);
+    width: 45%;
+    margin: 0 auto;
+   padding: 45px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    background-color: rgb(219, 219, 219);
+    border-radius: 60px;
+
+  }
